@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="mail" clip-path="url(#clip0_839_584)">
+<path id="Vector" d="M25.3333 6.66675H6.66667C5.19391 6.66675 4 7.86066 4 9.33341V22.6667C4 24.1395 5.19391 25.3334 6.66667 25.3334H25.3333C26.8061 25.3334 28 24.1395 28 22.6667V9.33341C28 7.86066 26.8061 6.66675 25.3333 6.66675Z" stroke="#EACF86" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M4 9.33325L16 17.3333L28 9.33325" stroke="#EACF86" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_839_584">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
