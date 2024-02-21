@@ -13,10 +13,10 @@
                 <p class="subtitle" data-aos="fade-right" data-aos-duration="800" data-aos-once="true">
                     <?php echo get_field('subtitle') ?>
                 </p>
-                <a href="<?php echo get_home_url() ?>/contato" class="button-pages" 
+                <a href="<?php echo get_home_url() ?>/sobre" class="button-pages" 
                 data-aos="fade-right" data-aos-duration="700" data-aos-once="true"
                         >
-                    Fale com a <strong>Trium</strong>
+                    CONHEÇA A <strong>TRIUM</strong>
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/img/arrow-btn.svg"/>
                 </a>  
                 <div class="arrow_home arrow"></div>

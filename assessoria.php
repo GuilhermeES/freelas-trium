@@ -41,8 +41,8 @@ get_header(); ?>
                         <?php endforeach; ?>
                     </div>
 
-                    <a href="<?php echo get_home_url() ?>/contato" class="button-pages"
-                        data-aos="fade-up-right" data-aos-duration="700" data-aos-once="true">
+                    <a href="https://assessoria.triumcapital.com.br/invista-ja" class="button-pages"
+                        data-aos="fade-up-right" data-aos-duration="700" data-aos-once="true" target="_blank">
                            Fale com nossos <strong>assessores</strong>
                             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/arrow-btn.svg"/>
                         </a>  
@@ -80,8 +80,8 @@ get_header(); ?>
                             </div>
                         <?php endforeach; ?>
 
-                        <a href="<?php echo get_home_url() ?>/contato" class="button-pages"
-                        data-aos="fade-up-left" data-aos-duration="700" data-aos-once="true">
+                        <a href="https://assessoria.triumcapital.com.br/invista-ja" class="button-pages"
+                        data-aos="fade-up-left" data-aos-duration="700" data-aos-once="true" target="_blank">
                         Fale com nossos <strong>assessores</strong>
                             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/arrow-btn.svg"/>
                         </a>  

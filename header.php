@@ -61,11 +61,3 @@
         </div>
         <div class="header__line"></div>
     </header>
-
-    <?php if (!empty(get_option('opcoes_main')['whatsapp'])): ?>
-        <div class="whatsapp">
-            <a href="https://api.whatsapp.com/send?phone=<?php echo get_option('opcoes_main')['whatsapp'] ?>" target="_blank">
-                <img src="<?php echo get_template_directory_uri() ?>/assets/img/whatsapp.svg" alt="Whatsapp">
-            </a>
-        </div>
-    <?php endif; ?>

@@ -482,6 +482,12 @@ svg{
     color: #ffffff;
 }
 
+ul.alm-listing.alm-ajax{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
 .blog__list{
     padding-bottom: 100px;
 }
@@ -513,6 +519,8 @@ svg{
 .blog__list article img{
     max-width: 100%;
     border-radius: 15px;
+    width: 100%;
+    object-fit: cover;
     filter: grayscale(1);
 }
 
@@ -2473,6 +2481,11 @@ svg{
 
     .cpt__video img{
         width: 300px;
+    }
+
+    ul.alm-listing.alm-ajax{
+        display: block;
+       
     }
 
 }

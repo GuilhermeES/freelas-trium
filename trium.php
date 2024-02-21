@@ -83,7 +83,7 @@ get_header(); ?>
         </div>
     </section>
     <div class="contriburts-btn">
-        <a href="<?php echo get_home_url() ?>/contato" class="button-pages">
+        <a href="https://assessoria.triumcapital.com.br/invista-ja" class="button-pages" target="_blank">
             Comece a <strong>investir</strong>
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/arrow-btn.svg"/>
         </a> 
