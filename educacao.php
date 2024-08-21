@@ -316,8 +316,8 @@ get_header(); ?>
         <p data-aos="fade-up" data-aos-duration="800" data-aos-once="true"> 
             <?php echo get_field('subtitle_know'); ?>
         </p>
-        <a href="https://assessoria.triumcapital.com.br/invista-ja" class="button-pages"
-        data-aos="fade-up" data-aos-duration="900" data-aos-once="true" target="_blank">
+        <a href="<?php echo get_home_url() ?>/contato" class="button-pages"
+        data-aos="fade-up" data-aos-duration="900" data-aos-once="true" >
             Fale com nossos assessores
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/arrow-btn.svg"/>
         </a>
